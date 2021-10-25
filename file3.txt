@@ -1,0 +1,2 @@
+This is third file
+this is local git repository
